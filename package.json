@@ -2,7 +2,7 @@
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://theshook.github.io/Robofriends",
+  "homepage": "http://theshook.github.io/RoboFriends",
   "dependencies": {
     "react": "^16.3.0",
     "react-dom": "^16.3.0",
